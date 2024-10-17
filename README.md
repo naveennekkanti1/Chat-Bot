@@ -69,7 +69,7 @@ npm run dev
 Now,
 
 ```bash
-open up localhost:
+open up localhost:8080 and 5000
 ```
 
 ### Techstack Used:
@@ -83,7 +83,7 @@ open up localhost:
 - Meta Llama2
 ###### DataBases
 - Pinecone (Trained and Test Chat)
-- MongoDB(for user credentials)
+- MongoDB (for user credentials)
 
 # HealthChatbot
 
