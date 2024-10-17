@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/naveennekkanti1/Chat-Bot.git
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
