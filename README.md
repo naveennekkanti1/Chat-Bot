@@ -73,12 +73,17 @@ open up localhost:
 ```
 
 ### Techstack Used:
-
+###### FrontEnd
+- React JS
+- TypeScript
+###### BackEnd
 - Python
 - LangChain
 - Flask
 - Meta Llama2
-- Pinecone
+###### DataBases
+- Pinecone (Trained and Test Chat)
+- MongoDB(for user credentials)
 
 # HealthChatbot
 
