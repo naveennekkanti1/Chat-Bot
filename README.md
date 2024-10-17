@@ -81,3 +81,6 @@ open up localhost:
 - Pinecone
 
 # HealthChatbot
+
+- Led the development of a Chatbot for health-related issues using React,Node,Python and Meta Llama2, with Reinforcement learning as a key component and Llama 2 Flask for integrating.
+- Achieved 0.97 accuracy in testing, with 84% performance during project evaluations
