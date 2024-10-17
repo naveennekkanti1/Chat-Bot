@@ -1,6 +1,7 @@
-# End-to-end-Medical-Chatbot-using-Llama2
+# HealthChatbot
+## End-to-end-Medical-Chatbot-using-Llama2
 
-# How to run?
+## How to run?
 
 ### STEPS:
 
@@ -79,5 +80,4 @@ open up localhost:
 - Meta Llama2
 - Pinecone
 
-# HealthChatbot
 # HealthChatbot
